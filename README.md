@@ -5,3 +5,6 @@ This project aims to investigate different machine learning algorithms for a reg
 1. Feature Selection: Boruta technique has been used to select only useful features in predicting the price of a cab
 2. Employed various Machine learning Algorithms to know which has the best predictive power using Azure ML Studio
 3. Deployed the Machine Learning model using Azure ML Web services
+
+## Youtube Link for Model Deployment and Project description
+https://www.youtube.com/watch?v=1GAZc4mM8K4&feature=youtu.be&ab_channel=AshritKulkarni
